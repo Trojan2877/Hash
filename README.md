@@ -20,4 +20,4 @@ mvn package
 Its buit using maven afterall
 and deploy jar onto the server : 
 
-java -jar target\Encrypt-1.0-SNAPSHOT.jar server
+java -jar target/Encrypt-1.0-SNAPSHOT.jar server
